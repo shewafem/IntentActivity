@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent Activity</string>
+    <string name="hint_text">Enter text</string>
+    <string name="btn_submit">Send to 2nd activity</string>
+    <string name="hint_phone">Enter phone</string>
+    <string name="btn_dial">Call</string>
+</resources>
